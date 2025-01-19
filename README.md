@@ -2,16 +2,16 @@
 
 Learning Material:
 
-  What is customer segmentation?
+  1. What is customer segmentation?
   
-  Why segment customers?
+  2. Why segment customers?
   
-  What are the benefits of customer segmentation
+  3. What are the benefits of customer segmentation
   
-  Activity 1: Fill in the Blanks
+  4. Activity 1: Fill in the Blanks
   
-  Example or Case Study
+  5. Example or Case Study
   
-  Analysis of the customer segments
+  6. Analysis of the customer segments
   
-  Activity 2: True or False
+  7. Activity 2: True or False
