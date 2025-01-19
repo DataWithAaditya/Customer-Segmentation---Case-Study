@@ -1,6 +1,6 @@
 # Customer-Segmentation---Case-Study
 
-###Learning Material:
+Learning Material:
 
   What is customer segmentation?
   
